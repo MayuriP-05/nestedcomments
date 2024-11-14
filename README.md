@@ -11,25 +11,26 @@ A nested, interactive comment section that lets users create threaded discussion
 #### 📱 Responsive UI: Styled with Tailwind CSS for a clean and mobile-friendly layout.
 
 ## 🔧 Technologies Used
-HTML for structure
-Tailwind CSS for styling
-JavaScript for interactive functionality and DOM manipulation
+#### HTML for structure
+#### Tailwind CSS for styling
+#### JavaScript for interactive functionality and DOM manipulation
+
 ## 🚀 Getting Started
-Prerequisites
-Basic knowledge of HTML, CSS (preferably Tailwind), and JavaScript.
-A code editor (e.g., VS Code) and a modern browser.
-Setup Instructions
+### Prerequisites
+#### Basic knowledge of HTML, CSS (preferably Tailwind), and JavaScript.
+#### A code editor (e.g., VS Code) and a modern browser.
+#### Setup Instructions
 
 ## Clone the Repository
--bash
--Copy code
--git clone <https://github.com/MayuriP-05/nestedcomments>
--Hosted link <https://mayurip-05.github.io/nestedcomments/>
+#### -bash
+#### -Copy code
+#### -git clone <https://github.com/MayuriP-05/nestedcomments>
+#### -Hosted link <https://mayurip-05.github.io/nestedcomments/>
 
 ## 📄 Usage Instructions
--Post a Comment: Type your name, add a comment, and click Post Comment.
--Reply to a Comment: Click Reply below a comment, add your text, and click Post Reply.
--Edit a Comment: Click Edit, make changes, then Save.
--Delete a Comment: Click Delete to remove a comment and all nested replies.
+#### Post a Comment: Type your name, add a comment, and click Post Comment.
+#### Reply to a Comment: Click Reply below a comment, add your text, and click Post Reply.
+#### Edit a Comment: Click Edit, make changes, then Save.
+#### Delete a Comment: Click Delete to remove a comment and all nested replies.
 
 
