@@ -3,12 +3,12 @@ A nested, interactive comment section that lets users create threaded discussion
 
 
 ## 🌟 Features:
-### 💬 Add New Comments: Users can add comments with a name and profile picture.
-### ↪️ Nested Replies: Reply to any comment, creating a threaded view of conversations.
-### ✏️ Edit and Save: Modify comments and save changes.
-### 🗑️ Delete Comments: Remove comments along with all nested replies.
-### 📏 Character Limit: Set a 250-character limit for comments with a live counter.
-### 📱 Responsive UI: Styled with Tailwind CSS for a clean and mobile-friendly layout.
+#### 💬 Add New Comments: Users can add comments with a name and profile picture.
+### ↪️ Nested Replies: Reply to any comment, creating a threaded view of conversations.3
+####✏️ Edit and Save: Modify comments and save changes.
+#### 🗑️ Delete Comments: Remove comments along with all nested replies.
+#### 📏 Character Limit: Set a 250-character limit for comments with a live counter.
+#### 📱 Responsive UI: Styled with Tailwind CSS for a clean and mobile-friendly layout.
 
 ## 🔧 Technologies Used
 HTML for structure
