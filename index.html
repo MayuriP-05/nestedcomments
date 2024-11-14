@@ -6,16 +6,34 @@
   <title>Nested Comments</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100 p-6 font-sans">
+<body class="bg-gray-50 p-8 font-sans">
 
-  <div class="container mx-auto">
-    <div id="commentContainer" class="space-y-4"></div>
-    <div class="mt-6">
-      <input id="usernameInput" type="text" class="w-full p-2 border border-gray-300 rounded mb-2" placeholder="Enter your name" maxlength="50" />
-      <textarea id="newCommentInput" class="w-full p-3 border border-gray-300 rounded" placeholder="Add a new comment..." maxlength="250"></textarea>
-      <div class="flex justify-between items-center mt-2">
+  <div class="container mx-auto max-w-2xl">
+    <h1 class="text-2xl font-semibold mb-6 text-gray-800">Comments Section</h1>
+    <div id="commentContainer" class="space-y-6"></div>
+    
+    <div class="mt-8 p-4 bg-white rounded shadow-md">
+      <input 
+        id="usernameInput" 
+        type="text" 
+        class="w-full p-3 border border-gray-300 rounded mb-4 focus:outline-none focus:border-blue-400" 
+        placeholder="Enter your name" 
+        maxlength="50" 
+      />
+      <textarea 
+        id="newCommentInput" 
+        class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:border-blue-400" 
+        placeholder="Add a new comment..." 
+        maxlength="250">
+      </textarea>
+      <div class="flex justify-between items-center mt-4">
         <span id="charCounter" class="text-sm text-gray-500">250 characters remaining</span>
-        <button id="addCommentBtn" class="bg-blue-500 text-white py-1 px-4 rounded">Add Comment</button>
+        <button 
+          id="addCommentBtn" 
+          class="bg-blue-500 text-white py-2 px-5 rounded hover:bg-blue-600 focus:outline-none"
+        >
+          Add Comment
+        </button>
       </div>
     </div>
   </div>
