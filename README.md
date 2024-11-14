@@ -25,7 +25,7 @@ A nested, interactive comment section that lets users create threaded discussion
 #### -bash
 #### -Copy code
 #### -git clone <https://github.com/MayuriP-05/nestedcomments>
-#### -Hosted link <https://mayurip-05.github.io/nestedcomments/>
+
 
 ## 📄 Usage Instructions
 #### Post a Comment: Type your name, add a comment, and click Post Comment.
@@ -33,4 +33,10 @@ A nested, interactive comment section that lets users create threaded discussion
 #### Edit a Comment: Click Edit, make changes, then Save.
 #### Delete a Comment: Click Delete to remove a comment and all nested replies.
 
+### License
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
+### Contact
+- Mayuri Patil
+- Email: mayurisp2052@gmail.com
+- Project Link: https://mayurip-05.github.io/nestedcomments/
